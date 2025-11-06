@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Dibuat Sabtu, 25 Oktober 2025
-# Coded by 2025 WahyuDin Ambia XD
+# Coded by WahyuDin Ambia XD
 
 import sys
 import shutil
@@ -102,7 +102,7 @@ Platform yang didukung: {Fore.CYAN}YouTube, Instagram, TikTok, Facebook, dan lai
   (Playlist akan dibuatkan folder terpisah)
 
 {Style.RESET_ALL}📦 Dibangun dengan: yt-dlp + ffmpeg + mpv
-{Style.RESET_ALL}📜 Source: {Fore.CYAN}https://github.com/W4hyuXD/iv-Music{Style.RESET_ALL}
+{Style.RESET_ALL}📜 Source: {Fore.CYAN}https://github.com/XnxcodeTeam/iv-Music{Style.RESET_ALL}
 """)
 
 # <!-- cek dependensi -->
